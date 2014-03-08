@@ -1,0 +1,1 @@
+# Middleman example for MultiSync
