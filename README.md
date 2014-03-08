@@ -1,3 +1,2 @@
-## Middleman example for MultiSync
-- [`master`](/tree/master)
-- [`asset_sync-compatiabilty`](/tree/asset_sync-compatibility)
+## Middleman 3 example for MultiSync
+[`middleman-sync`](https://github.com/karlfreeman/middleman-sync)
